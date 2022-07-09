@@ -67,3 +67,6 @@ h1{
 footer p{
     text-align: center;
 }
+#big-dream{
+    border-left: 7px solid tomato;
+}
